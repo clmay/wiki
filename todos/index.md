@@ -1,10 +1,10 @@
-# Todos
+## Todos
 
 - [2020](#2020)
   - [January](#january)
 
-## 2020
+### 2020
 
-### January
+#### January
 
 - [5th](2020-01-05.md)

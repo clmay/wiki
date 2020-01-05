@@ -1,4 +1,4 @@
-# Ludocity
+## Ludocity
 
 [http://ludocity.org](http://ludocity.org)
 

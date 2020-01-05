@@ -1,4 +1,4 @@
-# How to combine Git repos with full history
+## How to combine Git repos with full history
 
 Prior to this semester, I had been keeping my code for every class in a separate
 repository. This semester, I realized that adding another 4-5 repos to my GitHub
@@ -8,20 +8,20 @@ commit history for all of them separate repos. Since my GitHub activity consists
 almost entirely of commits on schoolwork, I didn't want my contribution activity
 to disappear when I deleted the old individual repos.
 
-I did a bit of research, but most of the instructions were vague and unclear.
-I came up with the steps below by synthesizing others, after a hefty dose of
-trial and error. Now, my activity timeline on GitHub shows the exact same
-statistics that it did before combining the repos. It may go against some
-git/GitHub best practices, but for my purposes, it worked well enough.
+I did a bit of research, but most of the instructions were vague and unclear. I
+came up with the steps below by synthesizing others, after a hefty dose of trial
+and error. Now, my activity timeline on GitHub shows the exact same statistics
+that it did before combining the repos. It may go against some git/GitHub best
+practices, but for my purposes, it worked well enough.
 
-## A note about conventions
+### A note about conventions
 
 Text within angle brackets (`<`, `>`) signifies content that needs to replaced
 by some actual value. So `<url_to_new_repo>` literally means the URL for the new
 repo. You'll want to copy and paste the commands from the tutorial, and then
 remove the angle bracket bits and replace them with their corresponding values.
 
-## Create an empty repository on GitHub
+### Create an empty repository on GitHub
 
 First, create an old repo on GitHub. Then, clone the empty repo && cd into it:
 
@@ -39,7 +39,7 @@ git commit --allow-empty -m "Initial commit"
 The empty commit is important! Later steps will fail if GitHub does not detect a
 new commit in the repo!
 
-## Prepare each old repository
+### Prepare each old repository
 
 Note: this entire section deals with the **old repos**, not the new one.
 
@@ -47,8 +47,8 @@ Make a folder inside each of your other repos, at the top-level of each repo. In
 Finder, press `Cmd+Shift+.` to show hidden files, and within each repo, move all
 the files and folders (except for `.git/`) into the new folder. Maybe your
 shell-fu is stronger than mine, but I found this easiest to do graphically,
-using Finder. Make sure you don't move the `.git/` folder (leave it
-where it is)! If you move it, things will break!
+using Finder. Make sure you don't move the `.git/` folder (leave it where it
+is)! If you move it, things will break!
 
 After you have finished moving the files out of the top-level (into the new
 folders), commit the changes in each repo, and push them:
@@ -62,7 +62,7 @@ git push origin master
 
 Repeat for all of the repositiories that will be merged.
 
-## Consolidate the old repositories into the new one
+### Consolidate the old repositories into the new one
 
 Note: you will be working in the **new repo** for the steps in this section.
 
@@ -129,7 +129,7 @@ exactly the order they are listed (and none gets skipped).
 So far, so good. Those steps complete the process to merge a single old repo
 into the new repo. Repeat for all of the repositiories that will be merged.
 
-## There's just one thing left
+### There's just one thing left
 
 Once you've completed the hard work above, you should be left with a single repo
 that now has all the files, as well as the complete commit histories, of each of

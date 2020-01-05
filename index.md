@@ -1,23 +1,23 @@
 My personal hypertext web notebook. Below is an index of some of my notes and
 interests, by category:
 
-# Index
+## Index
 
 - [Projects](#projects)
 - [Games](#games)
 - [Tutorials](#tutorials)
 
-## Projects
+### Projects
 
 - [Todos](todos/index.md)
 - [Projects](projects.md)
 
-## Games
+### Games
 
 - [Ludocity](ludocity.md)
 - [Pervasive games](pervasive-games.md)
 - [Street games](street-games.md)
 
-## Tutorials
+### Tutorials
 
 - [How to merge git repos with commit histories intact](combining-git-repos.md)
