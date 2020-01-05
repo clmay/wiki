@@ -1,7 +1,7 @@
 My personal hypertext web notebook. Below, some of my notes and interests are
 organized by category.
 
-Table of contents:
+**Table of contents**:
 
 - [Projects](#projects)
 - [Games](#games)

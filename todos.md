@@ -1,6 +1,6 @@
 ## Todos
 
-Table of contents:
+**Table of contents**:
 
 - [2020](#2020)
   - [January](#january)
