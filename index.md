@@ -1,4 +1,4 @@
-My personal hypertext web notebook. Below is a table of contents of my notes and
+My personal hypertext web notebook. Below is an index of some of my notes and
 interests, by category:
 
 - [Games](#games)
