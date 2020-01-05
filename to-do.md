@@ -1,0 +1,37 @@
+Contents:
+
+- [2020](#2020)
+  - [January](#january)
+    - [5](#5)
+      - [General](#general)
+      - [Tech co-ops](#tech-co-ops)
+      - [awesome-radleft](#awesome-radleft)
+
+# 2020
+
+## January
+
+### 5
+
+#### General
+
+- [ ] Look for job listing scapers/aggregation tools on GitHub
+
+#### Tech co-ops
+
+- [ ] Find tech collective/worker's co-ops (look for GitHub lists, browse
+      https://www.usworker.coop/directory, etc)
+  - [ ] [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
+- [ ] Research:
+  - [ ] [TechCollective](https://techcollective.com)
+  - [ ] [CoTech](https://www.coops.tech/about)
+  - [ ] [Tech Co-op Network](https://www.techworker.coop/)
+  - [ ] https://www.usworker.coop/directory
+- [ ] Articles:
+  - [ ] https://popularresistance.org/ten-tech-worker-cooperatives-how-to-start-one/
+  - [ ] https://news.ycombinator.com/item?id=7634152
+
+#### [awesome-radleft](awesome-radleft.md)
+
+- [ ] https://popularresistance.org
+- [ ] All the tech co-ops listed above (subject to further research)

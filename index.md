@@ -1,8 +1,14 @@
+# clmay/wiki
+
 My personal hypertext web notebook. Below is an index of some of my notes and
 interests, by category:
 
 - [Games](#games)
 - [Tutorials](#tutorials)
+
+Also, some time and project management pages:
+
+- [To dos](to-do.md)
 
 ## Games
 
