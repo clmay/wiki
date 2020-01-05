@@ -1,7 +1,7 @@
 My personal hypertext web notebook
 
-## Contents
+- [Tutorials](#tutorials)
 
-### Tutorials
+## Tutorials
 
 - [How to merge git repos with commit histories intact](combining-git-repos.md)
