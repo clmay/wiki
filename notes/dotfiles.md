@@ -14,3 +14,11 @@ tutorials, etc. that I hope will inform my future approach to dotfiles
 management.
 
 - [Drew Devault: "Managing my dotfiles as a git repository](https://drewdevault.com//2019/12/30/dotfiles.html)
+
+And, just a note for myself here... there's another one about storing dotfiles
+in a git repo using the "bare directory" flag, or something, that I want to look
+up and add to this list.
+
+## Meta
+
+Categories:["Git"]
