@@ -9,7 +9,7 @@ interests, by category:
 
 ## Projects
 
-- [To dos](todos/index.md)
+- [Todos](todos/index.md)
 - [Projects](projects.md)
 
 ## Games
