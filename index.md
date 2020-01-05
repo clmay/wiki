@@ -1,7 +1,7 @@
-# clmay/wiki
-
 My personal hypertext web notebook. Below is an index of some of my notes and
 interests, by category:
+
+# Index
 
 - [Games](#games)
 - [Tutorials](#tutorials)
