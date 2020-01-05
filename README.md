@@ -1,7 +1,4 @@
-My personal hypertext web notebook
+# clmay/wiki
 
-- [Tutorials](#tutorials)
-
-## Tutorials
-
-- [How to merge git repos with commit histories intact](combining-git-repos.md)
+My personal hypertext web notebook. A simple collection of Markdown documents,
+rendered and served by GitHub Pages, available at https://clmay.github.io/wiki.
