@@ -1,7 +1,7 @@
-My personal hypertext web notebook. Below is an index of some of my notes and
-interests, by category:
+My personal hypertext web notebook. Below, some of my notes and interests are
+organized by category.
 
-## Index
+Table of contents:
 
 - [Projects](#projects)
 - [Games](#games)
