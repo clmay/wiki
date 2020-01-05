@@ -9,7 +9,7 @@ Table of contents:
 
 ### Projects
 
-- [Todos](todos/index.md)
+- [Todos](todos.md)
 - [Projects](projects.md)
 
 ### Games
