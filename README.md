@@ -1,5 +1,3 @@
-# clmay/wiki
-
 My personal hypertext web notebook
 
 ## Contents
