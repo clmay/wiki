@@ -7,11 +7,9 @@ interests, by category:
 - [Games](#games)
 - [Tutorials](#tutorials)
 
-Also, some time and project management pages:
-
 ## Projects
 
-- [To dos](to-do.md)
+- [To dos](todoes/index.md)
 - [Projects](projects.md)
 
 ## Games
