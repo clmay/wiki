@@ -3,12 +3,16 @@ interests, by category:
 
 # Index
 
+- [Projects](#projects)
 - [Games](#games)
 - [Tutorials](#tutorials)
 
 Also, some time and project management pages:
 
+## Projects
+
 - [To dos](to-do.md)
+- [Projects](projects.md)
 
 ## Games
 
