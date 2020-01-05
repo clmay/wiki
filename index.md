@@ -1,6 +1,14 @@
-My personal hypertext web notebook
+My personal hypertext web notebook. Below is a table of contents of my notes and
+interests, by category:
 
+- [Games](#games)
 - [Tutorials](#tutorials)
+
+## Games
+
+- [Ludocity](ludocity.md)
+- [Pervasive games](pervasive-games.md)
+- [Street games](street-games.md)
 
 ## Tutorials
 
