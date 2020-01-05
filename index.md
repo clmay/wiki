@@ -1,16 +1,14 @@
 My personal hypertext web notebook. Below, some of my notes and interests are
-organized by category.
+organized by category. I also maintain lists of [todos](todos.md),
+[projects](projects.md), and assorted [notes](notes.md) and [ideas](ideas.md).
+Feel free to peruse. If you notice any typographical, grammatical, or factual
+errors, please feel free
+[file an issue](https://github.com/clmay/wiki/issues/new).
 
 **Table of contents**:
 
-- [Projects](#projects)
 - [Games](#games)
 - [Tutorials](#tutorials)
-
-### Projects
-
-- [Todos](todos.md)
-- [Projects](projects.md)
 
 ### Games
 
