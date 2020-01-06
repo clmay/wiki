@@ -19,6 +19,8 @@ And, just a note for myself here... there's another one about storing dotfiles
 in a git repo using the "bare directory" flag, or something, that I want to look
 up and add to this list.
 
-## Meta
+---
 
-Categories:["Git"]
+[All notes](../notes.md)
+
+Tags: #git #dotfiles
