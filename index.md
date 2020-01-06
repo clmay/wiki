@@ -8,15 +8,8 @@ errors, please [file an issue](https://github.com/clmay/wiki/issues/new).
 
 **Table of contents**:
 
-- [Content types](#content-types)
-- [Some things I am interested in](#some-things-i-am-interested-in)
+- [Interests](#interests)
 
-### Content types
-
-- [Notes](notes.md)
-- [Todos](todos.md)
-- [Tutorials](tutorials.md)
-
-### Some things I am interested in
+### Interests
 
 - [Games](games.md)
