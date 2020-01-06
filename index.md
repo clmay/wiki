@@ -11,7 +11,6 @@ errors, please feel free
 
 - [Content types](#content-types)
 - [Some things I am interested in](#some-things-i-am-interested-in)
-  - [Games](#games)
 
 ### Content types
 
@@ -21,8 +20,4 @@ errors, please feel free
 
 ### Some things I am interested in
 
-#### Games
-
-- [Ludocity](ludocity.md)
-- [Pervasive games](pervasive-games.md)
-- [Street games](street-games.md)
+- [Games](games.md)
