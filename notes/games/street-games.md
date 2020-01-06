@@ -43,6 +43,6 @@ article.
 
 ---
 
-[All games notes](/notes/games.md)
+[All games notes](notes/games.md)
 
 #notes #games #street-games #memories #nostalgia

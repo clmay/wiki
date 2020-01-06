@@ -14,6 +14,6 @@
 
 ---
 
-[All games notes](/notes/games.md)
+[All games notes](notes/games.md)
 
 #notes #games #pervasive-games

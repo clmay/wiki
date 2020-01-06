@@ -1,9 +1,9 @@
 ## Notes
 
-- [Games](/notes/games.md)
+- [Games](notes/games.md)
 
 ---
 
-[Home](/)
+[Home]()
 
 #notes

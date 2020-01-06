@@ -152,6 +152,6 @@ contribution activity should remain unchanged!
 
 ---
 
-[All tutorials](/tutorials.md)
+[All tutorials](tutorials.md)
 
 #git #tutorials #system-administration #unix-like #original-content

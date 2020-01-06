@@ -7,8 +7,8 @@ this, and it's open to other contributors, as well.
 
 ---
 
-[All projects](/projects.md)
+[All projects](projects.md)
 
-See also: [radleft.news](/ideas/radleft.news.md)
+See also: [radleft.news](ideas/radleft.news.md)
 
 #politics #activism #radical-politics #leftism #projects #original-content
