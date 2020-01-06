@@ -14,4 +14,4 @@ This is where I maintain a collection of hypertext documents:
 Feel free to peruse.
 
 If you notice any typographical, grammatical, or factual errors, please
-[file an issue](https://github.com/clmay/wiki/issues/new).
+[file an issue](https://github.com/clmay/wikiissues/new).

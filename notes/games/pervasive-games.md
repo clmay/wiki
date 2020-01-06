@@ -1,6 +1,6 @@
 ## Pervasive games
 
-[https://en.wikipedia.org/wiki/Pervasive_game](https://en.wikipedia.org/wiki/Pervasive_game)
+[https://en.wikipedia.org/wikiPervasive_game](https://en.wikipedia.org/wikiPervasive_game)
 
 > A pervasive game is a Video, Role Playing (RPG), or Live Action Role Playing
 > (LARP) game where the gaming experience is extended out in the real world, or
