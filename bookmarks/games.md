@@ -5,5 +5,3 @@
 ---
 
 [All bookmarks](/bookmarks.md)
-
-#bookmarks #games
