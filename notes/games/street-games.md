@@ -5,7 +5,7 @@
 
 ---
 
-[https://en.wikipedia.org/wikiStreet_game](https://en.wikipedia.org/wikiStreet_game)
+[https://en.wikipedia.org/wikiStreet_game](https://en.wikipedia.org/wiki/Street_game)
 
 > A street game is a sport or game that is played on city streets rather than a
 > prepared field. Street games are usually simply play time activities for

@@ -1,9 +1,9 @@
 ## Games bookmarks
 
-- [Ludocity](/bookmarks/games/ludocity.md)
+- [Ludocity](/wiki/bookmarks/games/ludocity.md)
 
 ---
 
-[All bookmarks](/bookmarks.md)
+[All bookmarks](/wiki/bookmarks.md)
 
 #bookmarks #games
