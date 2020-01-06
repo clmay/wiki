@@ -2,8 +2,8 @@
 
 [http://ludocity.org](http://ludocity.org)
 
-> Ludocity is a collection of [pervasive games](notes/pervasive-games.md),
-> [street games](notes/street-games.md) and new sports - social forms of play
+> Ludocity is a collection of [pervasive games](/notes/pervasive-games.md),
+> [street games](/notes/street-games.md) and new sports - social forms of play
 > that take place in public spaces, such as city streets, parks and public
 > buildings.
 
