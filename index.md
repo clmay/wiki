@@ -16,7 +16,7 @@ errors, please feel free
 
 - [Notes](notes.md)
 - [Todos](todos.md)
-- [Tutorials](tutorials.md): some tutorials I've written
+- [Tutorials](tutorials.md)
 
 ### Some things I am interested in
 
