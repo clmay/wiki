@@ -1,9 +1,15 @@
 ## radleft.news
 
+%TODO
+
 ---
 
-[All ideas](/ideas.md)
+See also:
 
-See also: [awesome-radleft](/projects/awesome-radleft.md)
+- [awesome-radleft](awesome-radleft.md)
+
+Categories:
+
+- [Ideas](ideas.md)
 
 #ideas #politics #activism #radical-politics #leftism #original-content

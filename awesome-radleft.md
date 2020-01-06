@@ -7,8 +7,12 @@ this, and it's open to other contributors, as well.
 
 ---
 
-[All projects](projects.md)
+See also:
 
-See also: [radleft.news](ideas/radleft.news.md)
+- [radleft.news](radleft.news.md)
+
+Categories:
+
+- [Projects](projects.md)
 
 #politics #activism #radical-politics #leftism #projects #original-content

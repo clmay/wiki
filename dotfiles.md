@@ -21,6 +21,8 @@ up and add to this list.
 
 ---
 
-[All notes](notes.md)
+Categories:
+
+- [Notes](notes.md)
 
 #notes #git #dotfiles #system-administration #unix-like

@@ -1,6 +1,6 @@
 ## Notes
 
-- [Games](notes/games.md)
+- [Games](games.md)
 
 ---
 
