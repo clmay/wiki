@@ -4,6 +4,6 @@
 
 ---
 
-[Home](/wiki)
+[Home](/wiki/)
 
 #notes
