@@ -13,4 +13,8 @@
 > everyone permission to run that game for free, wherever and whenever they
 > like.
 
+---
+
+[All games bookmarks](/bookmarks/games.md)
+
 #bookmarks #games #pervasive-games #street-games
