@@ -7,6 +7,6 @@ years that I can still find is this:
 
 ---
 
-[Home](/)
+[Home](/wiki)
 
 #tutorials #original-content

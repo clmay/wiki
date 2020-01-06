@@ -7,6 +7,6 @@ and syncing bookmarks. So I just do it here, by hand.
 
 ---
 
-[Home](/)
+[Home]()
 
 #bookmarks
