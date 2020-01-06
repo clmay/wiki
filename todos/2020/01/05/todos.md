@@ -12,20 +12,21 @@
 
 ### Tech co-ops
 
-- [ ] Find tech collective/worker's co-ops (look for GitHub lists, browse
-      https://www.usworker.coop/directory, etc) - [
-      ][https://github.com/hng/tech-coops](https://github.com/hng/tech-coops) -
-      [ ] Research: - [ ][techcollective](https://techcollective.com) - [
-      ][cotech](https://www.coops.tech/about) - [
-      ][tech co-op network](https://www.techworker.coop/) - [ ]
-      https://www.usworker.coop/directory - [ ] Articles: - [ ]
-      https://popularresistance.org/ten-tech-worker-cooperatives-how-to-start-one/
-      [ ] - https://news.ycombinator.com/item?id=7634152
+- [ ] Find tech collective/worker's co-ops
+  - [ ] https://www.usworker.coop/directory
+  - [ ] [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
+- [ ] Research:
+  - [ ] [techcollective](https://techcollective.com)
+  - [ ] [cotech](https://www.coops.tech/about)
+  - [ ] [tech co-op network](https://www.techworker.coop/)
+- [ ] Articles:
+  - [ ] https://popularresistance.org/ten-tech-worker-cooperatives-how-to-start-one/
+  - [ ] https://news.ycombinator.com/item?id=7634152
 
 ### [awesome-radleft](/projects/awesome-radleft.md)
 
-- [ ] https://popularresistance.org - [ ] All the tech co-ops listed above
-      (subject to further research)
+- [ ] https://popularresistance.org
+- [ ] All the tech co-ops listed above (subject to further research)
 
 ---
 
