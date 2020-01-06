@@ -1,3 +1,5 @@
+## January 5th, 2020 todos
+
 - [General](#general)
 - [Tech co-ops](#tech-co-ops)
 - [awesome-radleft](#awesome-radleft)
@@ -20,13 +22,13 @@
       https://popularresistance.org/ten-tech-worker-cooperatives-how-to-start-one/
       [ ] - https://news.ycombinator.com/item?id=7634152
 
-### [awesome-radleft](../projects/awesome-radleft.md)
+### [awesome-radleft](/projects/awesome-radleft.md)
 
 - [ ] https://popularresistance.org - [ ] All the tech co-ops listed above
       (subject to further research)
 
 ---
 
-[All todos](../todos.md)
+[All todos](/todos.md)
 
-Tags: #todo
+#todo #2020 #janaury #fifth

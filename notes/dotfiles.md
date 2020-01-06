@@ -21,6 +21,6 @@ up and add to this list.
 
 ---
 
-[All notes](../notes.md)
+[All notes](/notes.md)
 
-Tags: #git #dotfiles
+#notes #git #dotfiles #system-administration #unix-like

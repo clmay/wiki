@@ -11,3 +11,9 @@
 > contractual magic circle of play spatially, temporally, or socially." The
 > concept of a "magic circle" draws from the work of Johan Huizinga, who
 > describes the boundaries of play.
+
+---
+
+[All games notes](/notes/games.md)
+
+#notes #games #pervasive-games

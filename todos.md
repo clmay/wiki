@@ -9,4 +9,10 @@
 
 #### January
 
-- [5th](todos/todos-2020-01-05.md)
+- [5th](/todos/2020/01/05/todos.md)
+
+---
+
+[Home](/)
+
+#todos
