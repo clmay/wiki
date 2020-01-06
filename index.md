@@ -4,7 +4,7 @@ This is the personal web notebook of [Chase May](https://github.com/clmay).
 
 This is where I maintain a collection of hypertext documents:
 
-- [Todos](/todos.md),
+- [Todos](/todos.md)
 - [Notes](/notes.md)
 - [Ideas](/ideas.md)
 - [Projects](/projects.md)
