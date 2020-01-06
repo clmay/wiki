@@ -7,6 +7,6 @@ various stages:
 
 ---
 
-[Home]()
+[Home](/)
 
 #projects #original-content

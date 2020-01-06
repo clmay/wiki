@@ -4,6 +4,6 @@ I'll build this out, someday.
 
 ---
 
-[Home]()
+[Home](/)
 
 #ideas #original-content

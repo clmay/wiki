@@ -4,6 +4,6 @@
 
 ---
 
-[Home]()
+[Home](/)
 
 #notes
