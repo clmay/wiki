@@ -16,6 +16,6 @@
 
 ---
 
-[All games bookmarks](bookmarks/games.md)
+[All games bookmarks](/bookmarks/games.md)
 
 #bookmarks #games #pervasive-games #street-games
