@@ -13,6 +13,6 @@
 
 ---
 
-[Home](/)
+[Home](/wiki)
 
 #todos
