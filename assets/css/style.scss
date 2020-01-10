@@ -1,6 +1,10 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
+$container-width: 600px;
+
 .task-list {
   list-style-type: none;
 }
