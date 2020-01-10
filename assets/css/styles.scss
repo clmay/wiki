@@ -3,4 +3,12 @@
 
 @import "jekyll-theme-primer";
 
-$container-width: 600px;
+// $container-width: 600px; // this doesn't work
+
+.task-list {
+  list-style-type: none;
+}
+
+.task-list-item-checkbox {
+  padding-right: 0.5em;
+}
