@@ -23,6 +23,6 @@ See also:
 
 Filed under:
 
-- [Bookmarks](../bookmarks.md)
+- [Games ookmarks](../games.md)
 
 #bookmarks #games #pervasive-games #street-games
