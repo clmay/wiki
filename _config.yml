@@ -1,1 +1,4 @@
 baseurl: /wiki
+theme: jekyll-theme-primer
+title: clmay/wiki
+description: personal hypertext web notebook
