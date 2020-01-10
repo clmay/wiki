@@ -1,6 +1,7 @@
 ## Notes
 
-- [Games](games.md)
+- [Dotfiles](notes/dotfiles.md)
+- [Games](notes/games.md)
 
 ---
 

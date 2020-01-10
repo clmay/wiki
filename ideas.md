@@ -1,6 +1,6 @@
 ## Ideas
 
-I'll build this out, someday.
+- [radleft.news](ideas/radleft.news.md)
 
 ---
 

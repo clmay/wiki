@@ -37,15 +37,15 @@ knowledge of an epic urban street game made its way to us. We organized
 multiples games of Fugitive during the summer, for several summers in a row,
 until (as happened in most other cities in which the game was played) someone
 got cited by the police for some form of disturbance or mischief. That was the
-end of the best summer night we ever had (and I don't think I'm alone in my
+end of the best summer nights we ever had (and I don't think I'm alone in my
 sentiments about the game and its play). Some day I'll link to the Wikipedia
 article.
 
 ---
 
-Categories:
+Filed under:
 
-- [Games](games.md)
-- [Notes](notes.md)
+- [Games](../games.md)
+- [Notes](../../notes.md)
 
 #notes #games #street-games #memories #nostalgia

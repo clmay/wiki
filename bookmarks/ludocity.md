@@ -15,9 +15,14 @@
 
 ---
 
-Categories:
+See also:
 
-- [Games](games.md)
-- [Notes](notes.md)
+- [Pervasive games](../games/pervasive-games.md)
+- [Street games](../games/street-games.md)
+- [Games](../notes/games.md)
+
+Filed under:
+
+- [Bookmarks](../bookmarks.md)
 
 #bookmarks #games #pervasive-games #street-games
