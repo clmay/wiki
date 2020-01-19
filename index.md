@@ -1,9 +1,11 @@
 ## Hello!
 
-This is [my](https://github.com/clmay) personal web notebook. Here, I maintain a
-collection of interlinked hypertext documents (basically, a wiki). I've ranked
-things more or less by how interesting I think strangers are to find them; the
-further you scroll, the less relevant things are likely to seem.
+This is [my](https://github.com/clmay) personal web notebook, organized as a
+wiki of sorts.
+
+Below, I've ranked things more or less by how interesting I think strangers are
+to find them; the further you scroll, the less relevant things are likely to
+seem.
 
 You can learn a bit about me:
 
