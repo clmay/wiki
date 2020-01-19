@@ -10,8 +10,5 @@ See also:
 
 - [awesome-radleft](../projects/awesome-radleft.md)
 
-Filed under:
-
-- [Ideas](../ideas.md)
-
-#ideas #politics #activism #radical-politics #leftism #original-content
+[#ideas](../ideas.md) #politics #activism #radical-politics #leftism
+#original-content

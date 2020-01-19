@@ -9,4 +9,4 @@ various stages:
 
 [Home](/wiki)
 
-#projects #original-content
+#original-content

@@ -43,9 +43,4 @@ article.
 
 ---
 
-Filed under:
-
-- [Games](../games.md)
-- [Notes](../../notes.md)
-
-#notes #games #street-games #memories #nostalgia
+[#games](games.md) #memories #nostalgia

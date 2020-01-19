@@ -14,9 +14,4 @@
 
 ---
 
-Filed under:
-
-- [Games](../games.md)
-- [Notes](../../notes.md)
-
-#notes #games #pervasive-games
+[#interests](../interests.md) [#games](games.md)

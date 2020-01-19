@@ -11,8 +11,5 @@ See also:
 
 - [radleft.news](../ideas/radleft.news.md)
 
-Filed under:
-
-- [Projects](../projects.md)
-
-#projects #politics #activism #radical-politics #leftism #original-content
+[#projects](../projects.md) #politics #activism #radical-politics #leftism
+#original-content

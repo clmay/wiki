@@ -9,4 +9,4 @@ years that I can still find is this:
 
 [Home](/wiki)
 
-#tutorials #original-content
+#original-content

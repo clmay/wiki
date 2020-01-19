@@ -6,4 +6,4 @@
 
 [Home](/wiki)
 
-#ideas #original-content
+#original-content

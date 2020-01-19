@@ -152,8 +152,4 @@ contribution activity should remain unchanged!
 
 ---
 
-Filed under:
-
-- [Tutorials](../tutorials.md)
-
-#git #tutorials #system-administration #unix-like #original-content
+[#tutorials](../tutorials.md) #git #system-administration #original-content
