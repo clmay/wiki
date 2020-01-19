@@ -9,12 +9,9 @@ seem.
 
 You can learn a bit about my:
 
-- [Interests](interests.md)
-- [Projects](projects.md)
-
-And
-
-- [Things I use](uses.md)
+- [Interests](interests.md),
+- [Projects](projects.md),
+- and [Things I use](uses.md).
 
 I've written a whopping one (1) tutorial so far, but I'm hoping to expand this
 more as I run across things that I find more difficult than they should be.
