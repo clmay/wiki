@@ -1,16 +1,20 @@
 ## Hello!
 
 This is [my](https://github.com/clmay) personal web notebook, organized as a
-wiki of sorts.
+wiki of sorts. This is the space where I organize all of my digital information;
+it's like a second brain, of sorts.
 
 Below, I've ranked things more or less by how interesting I think strangers are
 to find them; the further you scroll, the less relevant things are likely to
 seem.
 
-You can learn a bit about me:
+You can learn a bit about my:
 
 - [Interests](interests.md)
 - [Projects](projects.md)
+
+And
+
 - [Things I use](uses.md)
 
 I've written a whopping one (1) tutorial so far, but I'm hoping to expand this
