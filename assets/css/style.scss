@@ -3,8 +3,10 @@
 
 @import "{{ site.theme }}";
 
-$container-lg: $width-md !default;
-$container-xl: $width-md !default;
+.container-lg,
+.container-xl {
+  max-width: 768px;
+}
 
 .task-list-item-checkbox {
   margin-right: 0.5em;
