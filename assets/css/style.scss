@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+// Fixed-width container variables
+$container-width: 6000px !default;
+$grid-gutter: 10px !default;
+
+// Breakpoint widths
+$width-xs: 0;
+$width-sm: 544px;
+$width-md: 768px;
+$width-lg: 768px;
+$width-xl: 768px;
+
 .task-list-item-checkbox {
   margin-right: 0.5em;
 }
