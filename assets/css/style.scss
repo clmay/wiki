@@ -3,10 +3,13 @@
 
 @import "{{ site.theme }}";
 
+body {
+  padding: 0 30px;
+}
+
 .container-lg,
 .container-xl {
   max-width: 768px;
-  padding: 30px;
 }
 
 .task-list-item-checkbox {
