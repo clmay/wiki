@@ -9,4 +9,4 @@ organizing them here, instead.
 
 ---
 
-[Home](/wiki)
+[Home](/)

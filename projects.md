@@ -7,6 +7,6 @@ various stages of completion:
 
 ---
 
-[Home](/wiki)
+[Home](/)
 
 #original-content

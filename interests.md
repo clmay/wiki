@@ -19,4 +19,4 @@ Here are some of the things that I am currently interested in:
 
 ---
 
-[Home](/wiki)
+[Home](/)

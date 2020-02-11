@@ -39,4 +39,4 @@ Nevertheless, they're here and available
 - [Todos](todos.md)
 
 If you notice any typographical, grammatical, or factual errors, please
-[file an issue](https://github.com/clmay/wiki/issues/new).
+[file an issue](https://github.com/clmay//issues/new).
