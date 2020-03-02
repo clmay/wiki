@@ -10,12 +10,12 @@ Here are some of the things that I am currently interested in:
       - Haskell
       - TypeScript
       - Rust
-      - Scala
     - Knowing these might be good, too:
       - Go
-      - Java
+      - Java (if it helps with Clojure)
       - JavaScript
       - Python
+      - Scala
     - I'd like to keep my eye on:
       - Gleam
       - Zig
