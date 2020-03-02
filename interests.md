@@ -3,6 +3,22 @@
 Here are some of the things that I am currently interested in:
 
 - Computer science
+  - Programming languages
+    - I'd like to master:
+      - Clojure
+      - Elixir
+      - Haskell
+      - TypeScript
+      - Rust
+      - Scala
+    - Knowing these might be good, too:
+      - Go
+      - Java
+      - JavaScript
+      - Python
+    - I'd like to keep my eye on:
+      - Gleam
+      - Zig
   - Programming language theory
   - Type theory
 - [Games](interests/games.md)
