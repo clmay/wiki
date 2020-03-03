@@ -5,13 +5,13 @@ Here are some of the things that I am currently interested in:
 - Computer science
   - Programming languages
     - I'd like to master:
-      - Clojure
       - Elixir
-      - Go
       - Haskell
       - Rust
       - JavaScript
     - Maybe also:
+      - Clojure
+      - Go
       - Java (if necessary for Clojure/Scala)
       - Scala
     - I'd like to keep my eye on:
