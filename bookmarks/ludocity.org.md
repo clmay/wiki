@@ -17,6 +17,6 @@
 
 ---
 
-[#bookmarks](../bookmarks.md) [#games](../interests/games.md)
+[#bookmarks](index.md) [#games](../interests/games.md)
 [#pervasive-games](../interests/pervasive-games.md)
 [#street-games](../interests/street-games.md)

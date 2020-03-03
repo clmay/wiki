@@ -152,4 +152,4 @@ contribution activity should remain unchanged!
 
 ---
 
-[#tutorials](../tutorials.md) #git #system-administration #original-content
+[#tutorials](index.md) #git #system-administration #original-content

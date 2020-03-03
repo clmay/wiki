@@ -7,4 +7,4 @@ rendered and served by GitHub Pages, available at https://clmay.github.io.
 
 - All pages should be titled with `##` headings
 - TOCs are separated from page content with `---` (horizontal rule)
-- Page footers (a la Wikipedia) are also separated from page content with `---`
+- Page footers (à la Wikipedia) are also separated from page content with `---`

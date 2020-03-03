@@ -21,4 +21,4 @@ up and add to this list.
 
 ---
 
-[#interests](../interests.md) #git #system-administration
+[#interests](index.md) #git #system-administration

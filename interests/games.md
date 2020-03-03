@@ -9,4 +9,4 @@ write more about why, and what sorts. For now, here are some links.
 
 ---
 
-[#interests](../interests.md)
+[#interests](index.md)
