@@ -5,14 +5,14 @@ Here are some of the things that I am currently interested in:
 - Computer science
   - Programming languages
     - I'd like to master:
+      - Clojure
       - Elixir
+      - Go
+      - Haskell
       - Rust
       - TypeScript/JS
     - Maybe also:
-      - Clojure
-      - Go
-      - Haskell
-      - Java (if it helps with Clojure)
+      - Java (if necessary for Clojure/Scala)
       - Scala
     - I'd like to keep my eye on:
       - Gleam
