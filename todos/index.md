@@ -9,7 +9,7 @@
 
 #### January
 
-- [5th](todos/2020-01-05-todos.md)
+- [5th](2020-01-05-todos.md)
 
 ---
 

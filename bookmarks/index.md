@@ -5,7 +5,7 @@ of browser bookmarks, so I thought I would take a stab at collecting and
 organizing them here, instead.
 
 - Games
-  - [Ludocity](bookmarks/ludocity.org.md)
+  - [Ludocity](ludocity.org.md)
 
 ---
 

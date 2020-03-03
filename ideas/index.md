@@ -1,6 +1,6 @@
 ## Ideas
 
-- [radleft.news](ideas/radleft.news.md)
+- [radleft.news](radleft.news.md)
 
 ---
 
