@@ -9,8 +9,8 @@
 
 ### Technology
 
-- MacBook Pro 13", 2016 (no Touch Bar—yuck): this is my personal computer
-- MacBook Pro 16", 2019: this is my employer's computer (that I use for my job)
+- MacBook Pro 13", 2016: this is my personal computer
+- MacBook Pro 16", 2019: this is my work computer
 - Google Pixel 2 XL
 - Garmin vívoactive HR
 
