@@ -3,7 +3,8 @@
 ### Programming languages
 
 - Ruby: what I work in at my job
-- JavaScript: what I use for personal projects
+- Elixir/JavaScript: for personal webdev & scripting projects
+- Rust: for non-web dev projects
 - Haskell: to learn pure FP and type theory
 
 ### Technology

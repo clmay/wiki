@@ -10,7 +10,7 @@ Here are some of the things that I am currently interested in:
       - Go
       - Haskell
       - Rust
-      - TypeScript/JS
+      - JavaScript
     - Maybe also:
       - Java (if necessary for Clojure/Scala)
       - Scala
