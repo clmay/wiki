@@ -8,11 +8,10 @@ Here are some of the things that I am currently interested in:
       - Clojure
       - Elixir
       - Haskell
-      - JavaScript
+      - JavaScript / TypeScript
       - Rust
     - Maybe also:
       - Go
-      - Java (if necessary for Clojure/Scala)
       - Scala
     - I'd like to keep my eye on:
       - Gleam
@@ -25,9 +24,9 @@ Here are some of the things that I am currently interested in:
 - Software development
   - Operating systems
     - Unikernels
+    - Microkernels
+    - OS design
   - Programming languages
-    - Haskell
-    - Rust
   - System administation
     - [Dotfiles management](dotfiles.md)
 
