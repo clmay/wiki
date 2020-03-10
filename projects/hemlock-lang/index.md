@@ -8,6 +8,7 @@ performance, and safety.
 It has the following features:
 
 - Pattern matching
+- Automatic currying
 - Immutability by default
 - Referential transparency
 - Disciplined side effects
