@@ -18,10 +18,10 @@ And a batteries-included philosophy:
 
 - Dependency management
 - Concurrency & parallelism
-- Language server that provides:
-  - Syntax highlighting
-  - Automatic formatting
-  - Code migrations
+- Full-featured toolchain:
+  - Linter
+  - Formatter
+  - Dependency manager
 - Desktop, mobile, web, cloud support
 - Literate programming support
 
