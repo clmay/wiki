@@ -12,7 +12,7 @@ It has the following features:
 - Referential transparency
 - Disciplined side effects
 - Readable, consistent syntax
-- Homoiconicity and hygienic macros
+- Hygienic macros
 
 And a batteries-included philosophy:
 
