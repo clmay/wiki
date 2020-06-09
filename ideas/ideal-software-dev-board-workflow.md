@@ -1,12 +1,8 @@
 ## My ideal software development board workflow
 
 - [My ideal software development board workflow](#my-ideal-software-development-board-workflow)
-- [Columns](#columns)
-- [Labels](#labels)
-- [Workflow](#workflow)
-- [Additional considerations](#additional-considerations)
 
-## Columns
+### Columns
 
 1. Incoming
 2. In Progress
@@ -21,13 +17,13 @@
 
 - [Incoming](#incoming): All tickets in a sprint start here
 - [In Progress](#in-progress): Dev work has been started but is not finished
+- [UX Acceptance](#ux-acceptance): Tickets that are waiting for UX signoff
 - [Peer Review](#peer-review): Tickets that are waiting for dev peer review
 - [Ready to Promote](#ready-to-promote): Tickets that are reviewed and
 - [In `{ENV}`](#in-env): Tickets that have been deployed to `{ENV}`
-- [UX Acceptance](#ux-acceptance): Tickets that are waiting for UX signoff
 - [Done](#done): Tickets are done and ready to deploy to prod! 🚀 🎉
 
-## Labels
+### Labels
 
 1. `blocked` (red)
 2. `dev-approved` (green)
@@ -43,7 +39,7 @@ when something goes wrong to provide feedback on our workflow.
   considered unreviewed and untested. Therefore, no labels for the negative
   states are necessary.
 
-## Workflow
+### Workflow
 
 In general, tickets move left to right only. This protects certain columns from
 abuse or becoming "dumping grounds". It also helps tickets reflect their "true"
@@ -117,12 +113,12 @@ promotion, and moves the ticket to the next column.
 
 (This repeats from "In QA" to "In Stage".)
 
-#### Done (Ready for Prod)
+#### Done
 
 Once a ticket is promoted and tested in both QA and Stage, and labelled `qa-`
 and `stage-passed`, it's done and ready to deploy to prod! Hooray! 🥳
 
-## Additional considerations
+### Additional considerations
 
 #### Alternative names
 
