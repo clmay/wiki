@@ -1,3 +1,4 @@
 theme: jekyll-theme-primer
 title: clmay
 description: personal hypertext web notebook
+permalink: /blog/:year/:month/:day/:title/

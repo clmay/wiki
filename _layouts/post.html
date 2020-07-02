@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+<p>{{ page.date | date: '%B %-d, %Y' }}</p>
+{% if page.intro %}
+<p>...</p>
+<p><em>{{ page.intro }}...</em></p>
+<p>...</p>
+{% endif %} {{ content }}
