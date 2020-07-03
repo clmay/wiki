@@ -1,7 +1,7 @@
 # clmay.github.io
 
-My personal wiki. A simple collection of Markdown documents,
-rendered and served by GitHub Pages, available at https://clmay.github.io.
+My personal website and wiki. A simple collection of Markdown documents,
+rendered and served by GitHub Pages, available at https://clm.dev.
 
 ## Conventions
 
