@@ -1,14 +1,22 @@
 ## Hello!
 
-I'm a [software engineer](https://github.com/clmay) originally hailing from
-Oregon and currently living near Salt Lake City, Utah.
+I'm a [software engineer](https://github.com/clmay) working ~~in Salt Lake City,
+Utah~~ remotely for now. I'm originally from Oregon.
+
+At work, I develop automated tests, and testing frameworks and infrastructure
+with Ruby and Docker.
+
+Personally, my favorite languages are Elixir, Go, and Rust. Functional
+JavaScript is fine too (esp. [Svelte](https://svelte.dev)!). I'm particularly
+interested in solving hard backend problems, building APIs, microservices, and
+distributed systems.
 
 If you're with a company that's hiring engineers for remote work or in any of
 the following places, [drop me a note](mailto:clmay@hey.com) and let's talk!
 
 - Eugene, Oregon
 - Portland, Oregon
-- Vancouver, B.C.
+- Vancouver, BC
 - Germany
 
 You can read my:
@@ -16,13 +24,8 @@ You can read my:
 - [Blog](blog/index.md)
 - [Interests](interests/index.md)
 - [Projects](projects/index.md)
-
-I sometimes also create:
-
-- [Tutorials](tutorials/index.md)
 - [Ideas](ideas/index.md)
-- [Bookmarks](bookmarks/index.md)
-- [Todos](todos/index.md)
+- [Tutorials](tutorials/index.md)
 
 I'm on [Hey](https://hey.com) 👋 so feel free to
 [email me](mailto:clmay@hey.com). If you notice any typographical, grammatical,
