@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hello!
 
 I'm Chase. I'm a [software engineer](https://github.com/clmay) working ~~in Salt
