@@ -6,10 +6,9 @@ Lake City, Utah~~ remotely for now. I'm originally from Oregon.
 At work, I develop automated tests, and testing frameworks and infrastructure
 with Ruby and Docker.
 
-Personally, my favorite languages are Elixir, Go, and Rust. Functional
-JavaScript is fine too (esp. [Svelte](https://svelte.dev)!). I'm particularly
-interested in solving hard backend problems, building APIs, microservices, and
-distributed systems.
+For personal projects, I enjoy working with Elixir, Go, Rust, and
+[Svelte](https://svelte.dev)!). I'm particularly interested in solving hard
+backend problems, building APIs, microservices, and distributed systems.
 
 If you're with a company that's hiring engineers for remote work or in any of
 the following places, [drop me a note](mailto:clmay@hey.com) and let's talk!
