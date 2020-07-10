@@ -1,4 +1,4 @@
-## Tutorials I've written
+## Tutorials
 
 This list is kind of sad right now... The only tutorial I've written over the
 years that I can still find is this:
