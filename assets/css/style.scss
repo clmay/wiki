@@ -12,6 +12,11 @@ body {
   max-width: 768px;
 }
 
+.site-title a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .task-list-item-checkbox {
   margin-right: 0.5em;
 }
