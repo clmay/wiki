@@ -16,7 +16,7 @@ the following places, [drop me a note](mailto:clmay@hey.com) and let's talk!
 - Vancouver, BC
 - Germany
 
-On this site, you can see my:
+On this site, you can find my:
 
 - [Blog](blog/index.md)
 - [Interests](interests/index.md)
