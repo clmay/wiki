@@ -6,9 +6,9 @@ layout: default
 
 I'm Chase. I'm a [software engineer](https://github.com/clmay) working ~~in Salt
 Lake City, Utah~~ remotely for now. I'm originally from Oregon. At work, I
-develop automated tests and testing infrastructure with Ruby and Docker.
+develop automated tests and testing infrastructure with Ruby.
 
-For personal projects, I enjoy working with Elixir, Go, Rust, and
+For personal projects, I enjoy working with Elixir, Rust, and
 [Svelte](https://svelte.dev)!). I'm particularly interested in solving hard
 backend problems, building APIs, microservices, and distributed systems.
 
