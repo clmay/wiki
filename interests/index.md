@@ -2,8 +2,8 @@
 
 Here are some of the things that interest me:
 
-- Elixir (if you're with a company that's hiring Elixir engineers,
-  [please get in touch](mailto:clmay@hey.com))
+- Elixir (**if you're with a company that's hiring Elixir engineers,
+  [please get in touch](mailto:clmay@hey.com)**)
 - Backend software engineering
 - Microservices architecture
 - Distributed systems engineering
