@@ -12,9 +12,8 @@ For personal projects, I enjoy working with **Elixir**, **Rust**, and
 **Svelte**. I'm particularly interested in solving hard backend problems,
 building APIs, microservices, and distributed systems.
 
-If you're with a company that's **hiring engineers** for **remote work** or in
-any of the following places, [drop me a note](mailto:clmay@hey.com) and let's
-talk!
+If you're with a company that's **hiring engineers for remote work** or in any
+of the following places, [drop me a note](mailto:clmay@hey.com) and let's talk!
 
 - Eugene, Oregon
 - Portland, Oregon
