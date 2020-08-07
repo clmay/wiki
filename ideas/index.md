@@ -1,9 +1,6 @@
-## Ideas
-
-- [radleft.news](radleft.news.md)
-
+---
+title: Ideas
+layout: page
 ---
 
-[Home](/)
-
-#original-content
+- [radleft.news](radleft.news.md)
