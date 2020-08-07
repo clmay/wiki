@@ -2,14 +2,14 @@
 
 Here are some of the things that interest me:
 
-- Elixir (**if you're with a company that's hiring Elixir engineers,
-  [please get in touch](mailto:clmay@hey.com)**)
+- Elixir and Phoenix
 - Backend software engineering
 - Microservices architecture
 - Distributed systems engineering
 - The [IndieWeb](https://indieweb.org/) movement
-- The [Fediverse]() and [Tildeverse](https://tildeverse.org/)
-- [Dotfiles management](dotfiles.md)
+- The [Fediverse](https://fediverse.party/en/fediverse) and
+  [Tildeverse](https://tildeverse.org/)
+- [Dotfiles management](https://clm.dev/interests/dotfiles/)
 - Programming language theory & design
 
 Outside of tech, I have a fondness for:
