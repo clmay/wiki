@@ -1,4 +1,7 @@
 <div id="footer">
   <p><a href="{{ site.base_url }}">🏡 Home</a></p>
-  <p>© {{ 'now' | date: "%Y" }} Chase L. May</p>
+  <p>
+    © {% if page.date %}{{ page.date }} – {% endif %}{{ 'now' | date: "%Y" }}
+    Chase L. May
+  </p>
 </div>
