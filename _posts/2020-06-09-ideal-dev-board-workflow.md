@@ -1,8 +1,9 @@
-## My ideal software development board workflow
+---
+layout: post
+title: My Ideal Software Dev Board Workflow
+---
 
-- [My ideal software development board workflow](#my-ideal-software-development-board-workflow)
-
-### Columns
+## Columns
 
 1. Incoming
 2. In Progress
@@ -13,7 +14,7 @@
 7. UX Acceptance
 8. Done
 
-#### Brief column descriptions
+### Brief column descriptions
 
 - [Incoming](#incoming): All tickets in a sprint start here
 - [In Progress](#in-progress): Dev work has been started but is not finished
@@ -23,7 +24,7 @@
 - [In `{ENV}`](#in-env): Tickets that have been deployed to `{ENV}`
 - [Done](#done): Tickets are done and ready to deploy to prod! 🚀 🎉
 
-### Labels
+## Labels
 
 1. `blocked` (red)
 2. `dev-approved` (green)
@@ -39,17 +40,17 @@ when something goes wrong to provide feedback on our workflow.
   considered unreviewed and untested. Therefore, no labels for the negative
   states are necessary.
 
-### Workflow
+## Workflow
 
 In general, tickets move left to right only. This protects certain columns from
 abuse or becoming "dumping grounds". It also helps tickets reflect their "true"
 progress through the workflow.
 
-#### Incoming
+### Incoming
 
 All tickets start in "Incoming" at the beginning of the sprint.
 
-#### In Progress
+### In Progress
 
 When a dev begins work on a ticket, they move it from "Incoming" to "In
 Progress" and assign the ticket to theirself. They are now the ticket's "primary
@@ -62,7 +63,7 @@ help. Once a ticket is unblocked, the label is removed.
 When dev work is completed, the assigned dev moves the ticket to "UX
 Acceptance".
 
-#### UX Acceptance
+### UX Acceptance
 
 In this column, the UX designer reviews the work.
 
@@ -75,7 +76,7 @@ Otherwise, if the ticket work does meet design requirements, the UX designer
 adds the `ux-approved` label (green). This signifies to the dev that the ticket
 is ready to move to "Peer Review".
 
-#### Peer Review
+### Peer Review
 
 During this step in the tickets lifecycle, another dev reviews code changes/PR
 and tests the implemented features for "functional correctness". If changes are
@@ -86,7 +87,7 @@ When another dev has fully reviewed the code and functional correctness of the
 work, they add the `dev-approved` label (green) to the ticket. The assigned dev
 then moves the ticket to "Ready to Promote".
 
-#### Ready to Promote
+### Ready to Promote
 
 Here, the ticket work is ready to be promoted to QA for testing. In this column,
 the dev makes whatever additional preparation is needed (setting up Akkeris
@@ -95,7 +96,7 @@ apps, pipelines, etc) for promoting the app to QA, stage, and prod.
 Once completed, the dev promotes the changes to QA and moves the ticket to the
 "In QA" column.
 
-#### In `{ENV}`
+### In `{ENV}`
 
 This indicates column that the ticket is ready for testing in the QA
 environment. The dev remains the primary assignee for the ticket; the SET who
@@ -113,18 +114,18 @@ promotion, and moves the ticket to the next column.
 
 (This repeats from "In QA" to "In Stage".)
 
-#### Done
+### Done
 
 Once a ticket is promoted and tested in both QA and Stage, and labelled `qa-`
 and `stage-passed`, it's done and ready to deploy to prod! Hooray! 🥳
 
-### Additional considerations
+## Additional considerations
 
-#### Alternative names
+### Alternative names
 
 - "Incoming" could instead be named "To Do"
 
-#### Working agreements
+### Working agreements
 
 - Let's consider a new working agreement to limit the amount of work in the "In
   Progress" column (as much as possible). This will help keep clear what
