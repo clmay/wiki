@@ -31,4 +31,4 @@ On this site, you can find my:
 
 Feel free to [email me](mailto:p5j35nbue@relay.firefox.com). If you notice any
 typographical, grammatical, or factual errors, please
-[file an issue](https://github.com/clmay/issues/new).
+[file an issue](https://github.com/clmay/clmay.github.io/issues/new).
