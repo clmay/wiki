@@ -5,6 +5,7 @@ rendered and served by GitHub Pages, available at https://clm.dev.
 
 ## Conventions
 
-- All pages should be titled with `##` headings
+- Headings in body content should begin with `##` / `<h2>` to avoid conflicts
+  with page titles
 - TOCs are separated from page content with `---` (horizontal rule)
 - Page footers (à la Wikipedia) are also separated from page content with `---`
