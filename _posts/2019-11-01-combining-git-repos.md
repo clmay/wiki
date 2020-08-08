@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Combine Git Repos
-intro: And maintain their histories
+intro: But keep the histories of each
 ---
 
 - [A note about conventions](#a-note-about-conventions)
