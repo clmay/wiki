@@ -12,6 +12,10 @@ body {
   max-width: 768px;
 }
 
+.right-aligned {
+  float: right;
+}
+
 .site-title a {
   text-decoration: inherit;
 }
@@ -20,7 +24,29 @@ body {
   margin-right: 0.5em;
 }
 
-#footer {
+.thin-line {
   padding-top: 1.2em;
   border-top: 1px solid #eaecef;
+}
+
+ul.dotted {
+  padding: 0;
+  overflow: hidden;
+  list-style: none;
+}
+ul.dotted li:before {
+  float: left;
+  width: 0;
+  white-space: nowrap;
+  content: '. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . '
+    '. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . ';
+}
+ul.dotted span:first-child {
+  padding-right: 0.5em;
+  background: $bg-white;
+}
+ul.dotted span + span {
+  float: right;
+  padding-left: 0.5em;
+  background: $bg-white;
 }
