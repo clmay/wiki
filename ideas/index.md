@@ -16,7 +16,7 @@ I've been interested in programming language theory and design since I learned
 how to program. "Hemlock" is a (currently) hypothetical functional programming
 language. For now, I've fleshed out a list of features and design principles,
 but there's not much more than that. Still, if you're interested, have a look at
-the [current draft]({% link /ideas/hemlock-lang/index.md %}).
+the [current draft]({% link ideas/hemlock-lang/index.md %}).
 
 ## radleft.news
 

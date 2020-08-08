@@ -9,7 +9,7 @@ Here are some of the things that interest me:
 - The [IndieWeb](https://indieweb.org/) movement
 - The [Fediverse](https://fediverse.party/en/fediverse) and
   [Tildeverse](https://tildeverse.org/)
-- [Dotfiles management]({% link /interests/dotfiles.md %})
+- [Dotfiles management]({% link interests/dotfiles.md %})
 - Programming language theory & design
 
 Outside of tech, I have a fondness for:

@@ -23,9 +23,9 @@ engineers** in any of the following places,
 
 On this site, you can find my:
 
-- [Blog]({% link /blog/index.md%})
-- [Interests]({% link /interests/index.md %})
-- [Ideas]({% link /ideas/index.md %})
+- [Blog]({% link blog/index.md%})
+- [Interests]({% link interests/index.md %})
+- [Ideas]({% link ideas/index.md %})
 
 Feel free to [email me](mailto:p5j35nbue@relay.firefox.com). If you notice any
 typographical, grammatical, or factual errors, please
