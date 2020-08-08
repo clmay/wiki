@@ -1,6 +1,6 @@
 ---
-title: Ideas
 layout: page
+title: Ideas
 ---
 
 ## awesome-radleft
