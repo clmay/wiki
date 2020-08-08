@@ -1,4 +1,7 @@
-## Hemlock programming language
+---
+layout: page
+title: The Hemlock Programming Language
+---
 
 _Programming without surprises_
 
