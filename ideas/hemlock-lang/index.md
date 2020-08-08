@@ -31,7 +31,7 @@ And a batteries-included philosophy:
 
 Hemlock is rare among programming languages
 
-### The Hemlock Philosophy
+## The Hemlock Philosophy
 
 - Explicit is better than implicit.
 - Words are easier to type than symbols and abbreviations, and easier to read.
