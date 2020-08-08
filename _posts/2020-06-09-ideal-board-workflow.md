@@ -131,7 +131,3 @@ and `stage-passed`, it's done and ready to deploy to prod! Hooray! 🥳
   Progress" column (as much as possible). This will help keep clear what
   features are meaningfully "underway" and also make sure we're working in an
   incremental, iterative fashion and making steady progress.
-
----
-
-[#ideas](index.md) #software-development #process #workflow #original-content
