@@ -1,4 +1,7 @@
-## Interests
+---
+layout: page
+title: Interests
+---
 
 Here are some of the things that interest me:
 
