@@ -1,4 +1,7 @@
-## Dotfiles
+---
+layout: page
+title: Dotfiles Management
+---
 
 On the one hand, it's super nice to be able to use text files to configure
 applications, etc. On the other hand, it becomes quite a task when you use
