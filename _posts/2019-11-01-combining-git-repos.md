@@ -1,4 +1,8 @@
-## How to combine Git repos with full history
+---
+layout: post
+title: How to Combine Git Repos
+intro: And maintain their histories
+---
 
 - [A note about conventions](#a-note-about-conventions)
 - [Create an empty repository on GitHub](#create-an-empty-repository-on-github)
