@@ -20,7 +20,7 @@ engineers** in any of the following places,
 - Portland, Oregon
 - Seattle, Washington
 - Vancouver, British Columbia
-- Anywhere in Germany (Ich kann Deutsch sprechen!)
+- Anywhere in Germany (_Ich kann Deutsch sprechen!_)
 
 On this site, you can find my:
 
