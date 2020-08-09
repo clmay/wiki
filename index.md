@@ -18,9 +18,9 @@ engineers** in any of the following places,
 
 - Eugene, Oregon
 - Portland, Oregon
-- Seattle, WA
-- Vancouver, BC
-- Germany
+- Seattle, Washington
+- Vancouver, British Columbia
+- Anywhere in Germany (Ich kann Deutsch sprechen!)
 
 On this site, you can find my:
 
