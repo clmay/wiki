@@ -18,6 +18,7 @@ engineers** in any of the following places,
 
 - Eugene, Oregon
 - Portland, Oregon
+- Seattle, WA
 - Vancouver, BC
 - Germany
 
