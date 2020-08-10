@@ -16,7 +16,9 @@
 
       {{ content }}
 
+      {% unless page.url == "/" %}
       {% include footer.html %}
+      {% endunless %}
     </div>
   </body>
 </html>
