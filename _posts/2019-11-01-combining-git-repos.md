@@ -35,7 +35,8 @@ remove the angle bracket bits and replace them with their corresponding values.
 
 ### Create an empty repository on GitHub
 
-First, create an old repo on GitHub. Then, clone the empty repo && cd into it:
+First, create an new repo on GitHub. Then, clone the empty repo and `cd` into
+it:
 
 ```sh
 git clone <url_to_new_repo>
@@ -59,8 +60,8 @@ Make a folder inside each of your other repos, at the top-level of each repo. In
 Finder, press `Cmd+Shift+.` to show hidden files, and within each repo, move all
 the files and folders (except for `.git/`) into the new folder. Maybe your
 shell-fu is stronger than mine, but I found this easiest to do graphically,
-using Finder. Make sure you don't move the `.git/` folder (leave it where it
-is)! If you move it, things will break!
+using Finder. Make sure you leave the `.git/` folder where it is—if you move it,
+things will break!
 
 After you have finished moving the files out of the top-level (into the new
 folders), commit the changes in each repo, and push them:
@@ -79,10 +80,10 @@ Repeat for all of the repositiories that will be merged.
 Note: you will be working in the **new repo** for the steps in this section.
 
 The steps in this section can be completed either repo by repo (choose a repo,
-complete steps 1–N, then the next repo, etc.) or you can complete each step for
+complete steps 1–6, then the next repo, etc.) or you can complete each step for
 every repo before moving on (step 1 for all repos, step 2 for all repos, etc.).
 Whatever you find works best to make sure that all the steps get completed in
-exactly the order they are listed (and none gets skipped).
+exactly the order they are listed (and none get skipped).
 
 1. First, get back into the new repo you created in the first section:
 
@@ -153,7 +154,3 @@ git push origin master
 
 When you delete your old repositories from your GitHub account, your
 contribution activity should remain unchanged!
-
----
-
-[#tutorials](index.md) #git #system-administration #original-content
