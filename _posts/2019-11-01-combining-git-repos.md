@@ -4,14 +4,6 @@ title: How to Combine Git Repos
 intro: But keep the histories of each
 ---
 
-- [A note about conventions](#a-note-about-conventions)
-- [Create an empty repository on GitHub](#create-an-empty-repository-on-github)
-- [Prepare each old repository](#prepare-each-old-repository)
-- [Consolidate the old repositories into the new one](#consolidate-the-old-repositories-into-the-new-one)
-- [There's just one thing left](#theres-just-one-thing-left)
-
----
-
 Prior to this semester, I had been keeping my code for every class in a separate
 repository. This semester, I realized that adding another 4-5 repos to my GitHub
 account for every term was probably a bad idea. I wanted to consolidate them all
