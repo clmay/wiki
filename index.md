@@ -12,15 +12,13 @@ For personal projects, I enjoy working with **Elixir**, **Rust**, and
 **Svelte**. I'm particularly interested in solving hard backend problems,
 building APIs, microservices, and distributed systems.
 
-If you're with a company that's **hiring remote workers** or **Elixir
-engineers** in any of the following places,
-[drop me a note](mailto:p5j35nbue@relay.firefox.com) and let's talk!
+If you're with a company that's hiring engineers,
+[drop me a note](mailto:hire@clm.dev) and let's talk! I'm interested in the
+following:
 
-- Eugene, Oregon
-- Portland, Oregon
-- Seattle, Washington
-- Vancouver, British Columbia
-- Anywhere in Germany (_Ich kann Deutsch sprechen!_)
+- Elixir jobs (willing to relocate for the right opportunity)
+- Any engineering position that is fully remote
+- Any engineering position based in Eugene, Oregon
 
 On this site, you can find my:
 
@@ -28,6 +26,6 @@ On this site, you can find my:
 - [Interests]({% link interests/index.md %})
 - [Ideas]({% link ideas/index.md %})
 
-Feel free to [email me](mailto:p5j35nbue@relay.firefox.com). If you notice any
-typographical, grammatical, or factual errors, please
+Feel free to [email me](mailto:hire@clm.dev). If you notice any typographical,
+grammatical, or factual errors, please
 [file an issue](https://github.com/clmay/clmay.github.io/issues/new).
