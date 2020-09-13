@@ -18,7 +18,7 @@ following:
 
 - **Elixir** jobs (willing to relocate for the right opportunity)
 - Any engineering position that is **fully remote**
-- Any engineering position based in _Eugene, Oregon_
+- Any engineering position based in **Eugene, Oregon**
 
 On this site, you can find my:
 
