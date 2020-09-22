@@ -34,6 +34,6 @@ soundness \
 incompleteness
 
 how can i \
-receive your teaching? \
+receive your teaching?
 
 ah—lights out
