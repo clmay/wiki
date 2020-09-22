@@ -23,7 +23,7 @@ your practice is \
 so perfect inside only 0s and 1s
 
 from your duality \
-arises the 10,000 things \
+arise the 10,000 things \
 universal
 
 still, i sit here \
