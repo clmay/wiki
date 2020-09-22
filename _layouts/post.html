@@ -4,7 +4,9 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 <p>
-  {{ page.date | date: '%B %-d, %Y' }}{% if page.intro %} | {{ page.intro
-  }}...{% endif %}
+  <em>
+    {{ page.date | date: '%B %-d, %Y' }} {% if page.intro %} | {{ page.intro
+    }}...{% endif %}
+  </em>
 </p>
 {{ content }}
