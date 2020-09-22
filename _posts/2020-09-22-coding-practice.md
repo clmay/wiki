@@ -29,7 +29,7 @@ universal
 still, i sit here \
 with your crystalline silence
 
-non-self \
+emptiness \
 soundness \
 incompleteness
 
