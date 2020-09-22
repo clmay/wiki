@@ -20,7 +20,7 @@ in my striving i forget that \
 i am already a master
 
 your practice is \
-so perfect inside only 0s and 1s
+so perfect, inside only 0s and 1s
 
 from your duality \
 arise the 10,000 things \
