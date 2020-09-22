@@ -3,6 +3,6 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-<p>{{ page.date | date: '%B %-d, %Y' }}</p>
-<p>{% if page.intro %}{{ page.intro }}...{% endif %}</p>
+<p><em>{{ page.date | date: '%B %-d, %Y' }}</em></p>
+<p><em>{% if page.intro %}{{ page.intro }}...{% endif %}</em></p>
 {{ content }}
