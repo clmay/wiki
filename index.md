@@ -4,21 +4,20 @@ layout: default
 
 ## Hello!
 
-I'm Chase. I'm a [software engineer](https://github.com/clmay) working ~~in Salt
-Lake City, Utah~~ remotely for now. I'm originally from Oregon. At work, I
-develop automated tests and testing infrastructure with **Ruby**.
+I'm Chase. I'm a [software engineer](https://github.com/clmay) who lives in
+Ogden, Utah, but I'm originally from Roseburg, Oregon.
 
-For personal projects, I enjoy working with **Elixir**, **Rust**, and
-**Svelte**. I'm particularly interested in solving hard backend problems,
-building APIs, microservices, and distributed systems.
+My interests are diverse. I like to work with JavaScript, TypeScript, Rust, and
+Svelte. In my free time, I like to explore creative coding, functional
+programming, and type theory. I also like to think, write, hike, and
+[sit](https://en.wikipedia.org/wiki/Shikantaza).
 
-If you're with a company that's hiring engineers,
-[drop me a note](mailto:hire@clm.dev) and let's talk! I'm interested in the
-following:
+If you're with a company that's hiring for:
 
-- **Elixir** jobs (willing to relocate for the right opportunity)
 - Any engineering position that is **fully remote**
 - Any engineering position based in **Eugene, Oregon**
+
+then [drop me a note](mailto:hire@clm.dev) and let's talk!
 
 On this site, you can find my:
 
@@ -26,6 +25,6 @@ On this site, you can find my:
 - [Interests]({% link interests/index.md %})
 - [Ideas]({% link ideas/index.md %})
 
-Feel free to [email me](mailto:hire@clm.dev). If you notice any typographical,
+Feel free to [email me](mailto:hello@clm.dev). If you notice any typographical,
 grammatical, or factual errors, please
 [file an issue](https://github.com/clmay/clmay.github.io/issues/new).
