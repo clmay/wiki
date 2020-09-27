@@ -7,17 +7,16 @@ layout: default
 I'm Chase. I'm a [software engineer](https://github.com/clmay) who lives in
 Ogden, Utah, but I'm originally from Roseburg, Oregon.
 
-My interests are diverse. I like to work with JavaScript, TypeScript, Rust, and
-Svelte. In my free time, I like to explore creative coding, functional
-programming, and type theory. I also like to think, write, hike, and
+I like to work with **JavaScript**, **TypeScript**, **Go**, **Rust**, and
+**Svelte**. In my free time, I like creative coding, game development,
+functional programming, and type theory. I also like to think, write, hike, and
 [sit](https://en.wikipedia.org/wiki/Shikantaza).
 
-If you're with a company that's hiring for:
+If you're with a company that's hiring for the following, then
+[drop me a note](mailto:hire@clm.dev) and let's talk!
 
 - Any engineering position that is **fully remote**
 - Any engineering position based in **Eugene, Oregon**
-
-then [drop me a note](mailto:hire@clm.dev) and let's talk!
 
 On this site, you can find my:
 
