@@ -15,8 +15,8 @@ functional programming, and type theory. I also like to think, write, hike, and
 If you're with a company that's hiring for the following, then
 [drop me a note](mailto:hire@clm.dev) and let's talk!
 
-- Any engineering position that is **fully remote**
-- Any engineering position based in **Eugene, Oregon**
+- Any **remote** engineering position
+- Any engineering position in **Eugene, Oregon**
 
 On this site, you can find my:
 
