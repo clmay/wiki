@@ -3,6 +3,11 @@ layout: page
 title: Games
 ---
 
+- [Pervasive games](#pervasive-games)
+- [Street games](#street-games)
+  - [Night games](#night-games)
+  - [Fugitive](#fugitive)
+
 ## Pervasive games
 
 [https://en.wikipedia.org/wiki/Pervasive_game](https://en.wikipedia.org/wiki/Pervasive_game)
@@ -18,13 +23,6 @@ title: Games
 > describes the boundaries of play.
 
 ## Street games
-
-- [Pervasive games](#pervasive-games)
-- [Street games](#street-games)
-  - [Night games](#night-games)
-  - [Fugitive](#fugitive)
-
----
 
 [https://en.wikipedia.org/wiki/Street_game](https://en.wikipedia.org/wiki/Street_game)
 
