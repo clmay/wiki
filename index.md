@@ -2,21 +2,18 @@
 layout: default
 ---
 
-## Hello!
+## Hi there 👋
 
 I'm Chase. I'm a [software engineer](https://github.com/clmay) who lives in
 Ogden, Utah. I'm originally from Roseburg, Oregon.
 
-I like to work with **JavaScript**, **TypeScript**, **Go**, **Rust**, and
-**Svelte**. In my free time, I like creative coding, game development,
-functional programming, and type theory. I also like to think, write, hike, and
+I like to work with **JavaScript**, **TypeScript**, **Go**, and **Svelte**. In
+my free time, I also like to think, write, and
 [sit](https://en.wikipedia.org/wiki/Shikantaza).
 
-If you're with a company that's hiring for the following, then
+If you're hiring for a **fully-remote company** (or one based in **Eugene,
+Oregon**), and you're interested in hiring me (🤞),
 [drop me a note](mailto:hire@clm.dev) and let's talk!
-
-- Any **remote** engineering position
-- Any engineering position in **Eugene, Oregon**
 
 On this site, you can find my:
 
