@@ -50,6 +50,7 @@ CREATE USER postgres SUPERUSER;
 
 # verify the new user was created succcessfully
 # note: the name must show as exactly `postgres`, and must be listed as a `Superuser`
+
 \du # (the command to list users; a handy one)
 
 # you should see output like this:
@@ -64,6 +65,7 @@ CREATE DATABASE postgres WITH OWNER postgres;
 
 # verify the database was created succesfully
 # note: the name must be exactly `postgres`, and must have an `Owner` of `postgres`
+
 \l # (the command to list databases; also handy)
 
 # you should see output like this:
