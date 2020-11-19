@@ -4,7 +4,7 @@ title: Postgres and Homebrew
 intro: A few pesky, undocumented steps for setup
 ---
 
-I'm writing this as much for my future self, as I am for anyone else. But who
+I'm writing this as much for my future self as I am for anyone else. But who
 knows? Maybe you find yourself in the same position in which I found myself for
 most of the day: having spent more time than you'd like to admit, trying to
 figure out why a database migration you were trying to run kept failing...
@@ -18,27 +18,30 @@ encounter one of several errors when you try to perform database-related tasks:
 - `FATAL: role "postgres" does not exist`
 
 You see, when installing Postgres, Homebrew, in its infinite wisdom, does _not_
-create the _default database_ that Postgres expects _by default_. Even though it
-seems like it probably should... 😉
+create the _default database_ that Postgres _expects_ to exist locally. Even
+though it seems like it probably should... 😉
 
 ### Creating your user's database
 
 You can easily remedy this. At a terminal, run `psql`. You should see an error
 like `FATAL: database "<missing-database-name>" does not exist`. Usually, the
-value replacing `<missing-database-name>` is your username.The first thing to
-do, is create that database:
+value that appears instead of `<missing-database-name>` is your username. The
+first thing to do, then, is to create that user's database:
 
 ```sh
-createdb <missing-database-name> # again, this should probably be your username, a.k.a. whatever is printed when you run `whoami` in a terminal
+createdb <missing-database-name>
+# again, this should probably be your username
+# a.k.a. whatever is printed when you run `whoami` in a terminal
 ```
 
-Congrats on the new database, `<you-handsome-devil-you>`.
+Congrats on the new database!
 
 Now that your user has its database, you'll be able to drop into `psql`, and
 it's time to setup the `postgres` database and user:
 
 ```sh
-psql # this will enter you into the `psql` shell; notice the prompt has now changed to `postgres=#`?
+psql # this will enter you into the `psql` shell;
+# notice the prompt has now changed to `postgres=#`?
 
 # now it's time to run some PSQL commands...
 
@@ -49,12 +52,29 @@ CREATE USER postgres SUPERUSER;
 # note: the name must show as exactly `postgres`, and must be listed as a `Superuser`
 \du # (the command to list users; a handy one)
 
+# you should see output like this:
+
+ Role name |                         Attributes                         | Member of
+-----------+------------------------------------------------------------+-----------
+ <user>    | Superuser, Create role, Create DB, Replication, Bypass RLS | {}
+ postgres  | Superuser                                                  | {}
+
 # and now create the `postgres` database
 CREATE DATABASE postgres WITH OWNER postgres;
 
 # verify the database was create succesfully
 # note: the name must be exactly `postgres`, and must have an `Owner` of `postgres`
 \l # (the command to list databases; also handy)
+
+# you should see output like this:
+
+          Name           |   Owner   | Encoding | Collate | Ctype |      Access privileges
+-------------------------+-----------+----------+---------+-------+-----------------------------
+ <user>                  | <user>    | UTF8     | C       | C     |
+ postgres                | postgres  | UTF8     | C       | C     |
+ template0               | <user>    | UTF8     | C       | C     |
+ ...
+(5 rows)
 ```
 
 Try running your database tasks again. You should be set. Not too hard, was it?
