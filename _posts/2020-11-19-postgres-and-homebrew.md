@@ -73,11 +73,15 @@ CREATE DATABASE postgres WITH OWNER postgres;
  <user>                  | <user>    | UTF8     | C       | C     |
  postgres                | postgres  | UTF8     | C       | C     |
  ...
+
+ # now you're all set. To exit the `psql` shell, run:
+ \q
 ```
 
-Try running your database tasks again. You should be set. Not too hard, was it?
-But it can be difficult to figure out from scratch if you're not already a
-strong `psql`-ite.
+Now run your database tasks again, and hopefully they'll all work!
+
+Not too hard, was it? But it can be difficult to figure out from scratch if
+you're not already a strong `psql`-ite.
 
 P.S. Perhaps there are really great reasons that Homebrew deviates from Postgres
 defaults, and I'm just not privy to them. If so, and someone can either explain
