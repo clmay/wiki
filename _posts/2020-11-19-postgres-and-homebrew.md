@@ -76,7 +76,7 @@ CREATE DATABASE postgres WITH OWNER postgres;
  postgres                | postgres  | UTF8     | C       | C     |
  ...
 
- # now you're all set. To exit the `psql` shell, run:
+ # now you're all set. To exit the `psql` shell:
  \q
 ```
 
