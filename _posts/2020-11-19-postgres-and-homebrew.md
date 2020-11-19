@@ -41,7 +41,7 @@ it's time to setup the `postgres` database and user:
 
 ```sh
 psql # this will enter you into the `psql` shell;
-# notice the prompt has now changed to `postgres=#`?
+# notice the prompt has now ends with `=#`?
 
 # now it's time to run some PSQL commands...
 
