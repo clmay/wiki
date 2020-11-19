@@ -2,6 +2,7 @@
 layout: post
 title: Coding Practice
 intro: The dhyāna and prajñā of 0s and 1s
+draft: true
 ---
 
 late, into the early hours \
