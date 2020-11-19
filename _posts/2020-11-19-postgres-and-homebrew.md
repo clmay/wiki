@@ -62,7 +62,7 @@ CREATE USER postgres SUPERUSER;
 # and now create the `postgres` database
 CREATE DATABASE postgres WITH OWNER postgres;
 
-# verify the database was create succesfully
+# verify the database was created succesfully
 # note: the name must be exactly `postgres`, and must have an `Owner` of `postgres`
 \l # (the command to list databases; also handy)
 
