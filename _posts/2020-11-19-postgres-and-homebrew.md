@@ -72,9 +72,7 @@ CREATE DATABASE postgres WITH OWNER postgres;
 -------------------------+-----------+----------+---------+-------+-----------------------------
  <user>                  | <user>    | UTF8     | C       | C     |
  postgres                | postgres  | UTF8     | C       | C     |
- template0               | <user>    | UTF8     | C       | C     |
  ...
-(5 rows)
 ```
 
 Try running your database tasks again. You should be set. Not too hard, was it?
