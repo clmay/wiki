@@ -27,8 +27,7 @@ remove the angle bracket bits and replace them with their corresponding values.
 
 ### Create an empty repository on GitHub
 
-First, create an new repo on GitHub. Then, clone the empty repo and `cd` into
-it:
+First, create a new repo on GitHub. Then, clone the empty repo and `cd` into it:
 
 ```sh
 git clone <url_to_new_repo>
