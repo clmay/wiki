@@ -17,6 +17,6 @@ On this site, you can find some of my:
 - [Interests]({% link interests/index.md %})
 - [Ideas]({% link ideas/index.md %})
 
-Feel free to [email me](mailto:hello@clm.dev). If you notice any typographical,
-grammatical, or factual errors, please
-[file an issue](https://github.com/clmay/clmay.github.io/issues/new).
+Feel free to [email me](mailto:hello@clm.dev). I'd be grateful if you would
+[file an issue](https://github.com/clmay/clmay.github.io/issues/new) if you
+notice any typographical, grammatical, or factual errors. 🙏
