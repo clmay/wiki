@@ -13,7 +13,7 @@ When I'm not coding, I like to read, think, write, and
 
 On this site, you can find some of my:
 
-- [Writing]({% link posts/index.md%})
+- [Writing]({% link writing/index.md%})
 - [Interests]({% link interests/index.md %})
 - [Ideas]({% link ideas/index.md %})
 
