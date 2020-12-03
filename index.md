@@ -4,7 +4,7 @@ layout: default
 
 ## Hi there 👋
 
-I'm Chase.
+I'm [Chase](https://github.com/clmay).
 
 I like to work with JavaScript, TypeScript, Svelte, Go, and Rust.
 
