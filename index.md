@@ -6,9 +6,7 @@ layout: default
 
 I'm [Chase](https://github.com/clmay).
 
-I like to work with JavaScript, TypeScript, Svelte, Go, and Rust.
-
-When I'm not coding, I like to read, think, write, and
+I like to code, read, think, write, and
 [sit](https://en.wikipedia.org/wiki/Shikantaza).
 
 On this site, you can find some of my:
