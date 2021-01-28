@@ -11,7 +11,7 @@ I like to code, read, think, write, and
 
 On this site, you can find some of my:
 
-- [Writing]({% link writing/index.md%})
+- [Writing]({% link writing/index.md %})
 - [Interests]({% link interests/index.md %})
 - [Ideas]({% link ideas/index.md %})
 
