@@ -4,7 +4,7 @@
   "description": "Personal website and wiki, powered by Eleventy",
   "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/clmay/clmay.github.io/issues"
   },
-  "homepage": "https://www.clm.dev"
+  "homepage": "https://www.clm.dev",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
 }
